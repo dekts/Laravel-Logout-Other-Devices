@@ -1,4 +1,4 @@
-# Laravel Force Logged Out From Other Devices
+# Laravel Logout Other Devices
 Logout Other Devices
 
 ## STEP 1: DB FIELDS MODIFICATION
